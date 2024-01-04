@@ -7,7 +7,7 @@
 - Data is based on and extracted from [Grit](https://grit.ph/zip-codes/) as of January 4, 2024.
 - There are two versions of the dump:
    - Version 1: all data is in a single table.
-   - Version 2: data is spread across multiple tables using relationships (THIS IS STILL IN PROGRESS).
+   - Version 2: data is spread across multiple tables using relationships.
 
 ## Contact
 
